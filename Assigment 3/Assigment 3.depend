@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669394918 source:d:\iti\c programming\dsassigment\assigment 3\assigment 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1669394818 d:\iti\c programming\dsassigment\assigment 3\assigment 3\include\linkedlist.h
+
